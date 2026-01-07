@@ -1,0 +1,33 @@
+{
+  "review_id": "i3_20260107_090557",
+  "file_prefix": "i3",
+  "media_type": "image",
+  "sender": "917499640802",
+  "timestamp": "2026-01-07T09:05:57.945531",
+  "moderation_result": {
+    "summary": "The text reports on the launch of a fast job search service app in India called AccioJob and Snabbit, claiming it helps users find jobs within 10 days. The service is described as easy to use and beneficial for job seekers.",
+    "fake_news": false,
+    "unverified_claims": true,
+    "hate_speech": false,
+    "political_bias": false,
+    "adult_content": false,
+    "violence": false,
+    "national_security_risk": false,
+    "communal_tension": false,
+    "defamation_risk": false,
+    "court_violation": false,
+    "victim_identity_exposed": false,
+    "investigation_interference": false,
+    "deepfake_or_ai_manipulation": false,
+    "copyright_violation": false,
+    "decision": "REVIEW",
+    "manual_review": true,
+    "unsafe": false,
+    "editor_approved": false,
+    "editor_comments": "",
+    "review_reasons": [
+      "unverified_claims"
+    ]
+  },
+  "status": "pending"
+}
